@@ -1,4 +1,3 @@
-# RobotOperatingSystem
-A collection of packages and walkthroughs for the Robot Operating System on various platforms.
+# [Click here to access the RobotOperatingSystem wiki](https://github.com/brennanyama/RobotOperatingSystem/wiki)
 
-## [Wiki is here](https://github.com/brennanyama/RobotOperatingSystem/wiki)
+This repo is a collection of tutorials for the Robot operating System.
